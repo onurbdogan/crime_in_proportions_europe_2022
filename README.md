@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository contains materials related to the research paper titled *"Crime in Proportions: Applying Compositional Data Analysis to European Crime Trends for 2022"*. The study explores patterns in crime rates across European countries by employing Compositional Data Analysis (CoDa) techniques.
+This repository contains materials related to the research paper titled *"Crime in Proportions: Applying Compositional Data Analysis to European Crime Trends for 2022"* by Onur Batın Doğan and Fatma Sevinç Kurnaz. The study explores patterns in crime rates across European countries by employing Compositional Data Analysis (CoDa) techniques.
 
 ### Description of Files and Folders
 
